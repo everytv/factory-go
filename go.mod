@@ -1,3 +1,3 @@
-module github.com/bluele/factory-go
+module github.com/everytv/factory-go
 
 go 1.15

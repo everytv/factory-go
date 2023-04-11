@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/bluele/factory-go/factory"
+
+	"github.com/everytv/factory-go/factory"
 )
 
 type Post struct {

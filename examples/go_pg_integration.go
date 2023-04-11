@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bluele/factory-go/factory"
+	"github.com/everytv/factory-go/factory"
 	"github.com/go-pg/pg"
 	"github.com/go-pg/pg/orm"
 )
