@@ -28,6 +28,7 @@ type Args interface {
 	Instance() interface{}
 	Parent() Args
 	Context() context.Context
+	UpdateContext(context.Context)
 	pipeline(int) *pipeline
 }
 
